@@ -3,7 +3,7 @@ import React from 'react'
 
 const Services = () => {
     return (
-        <div className='w-full h-full mx-auto poppins pb-8 overflow-hidden relative z-[-1]'>
+        <div className='w-full h-full mx-auto poppins pb-8 overflow-hidden relative z-1'>
             <h1 className='text-xl sm:text-2xl lg:text-3xl mx-auto w-full text-center bg-yellow-400 py-3 shadow-lg' data-aos="fade-in">Our Services</h1>
             <div className='flex flex-col w-[90vw] md:w-[70vw] mt-10 mx-auto gap-y-16'>
                 <div className='flex flex-col md:flex-row gap-5 md:gap-8 items-center justify-center' data-aos="fade-left">

@@ -9,12 +9,12 @@ import Footer from './Footer'
 const MainPage = () => {
   return (
     <>
-      <div className='max-w-1440px z-1 flex flex-col gap-3 absolute'>
+      <div className='max-w-1440px z-1 flex flex-col gap-3 relative'>
         {/* <HeroSection /> */}
-        <HeroSec2 className="absolute z-[-1]"/>
-        <WhySection className="absolute z-[-1]"/>
-        <Services className="absolute z-[-1]"/>
-        <Footer className="absolute z-[-1]"/>
+        <HeroSec2 className=""/>
+        <WhySection className=""/>
+        <Services className=""/>
+        <Footer className=""/>
                
       </div>
     </>

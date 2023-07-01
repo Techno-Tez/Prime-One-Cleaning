@@ -4,7 +4,7 @@ import "aos/dist/aos.css"
 const WhySection = () => {
     return (
         <>
-            <div className='w-full h-max mx-auto poppins overflow-hidden relative z-[-1]'>
+            <div className='w-full h-max mx-auto poppins overflow-hidden relative z-1'>
                 <h1 className='text-xl sm:text-2xl lg:text-3xl mx-auto w-full text-center bg-yellow-400 py-3 shadow-lg' data-aos="fade-in">Why Prime One Cleaning?</h1>
                 <div className='grid grid-cols-1 md:grid-cols-2 gap-x-5 gap-y-10 w-[90vw] md:w-[60vw] mx-auto py-12'>
                     <div className='flex gap-2 items-center' data-aos="fade-right">

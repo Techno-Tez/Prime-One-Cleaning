@@ -11,7 +11,7 @@ const Layout = () => {
     <>
       <div className='max-w-[1440px] mx-auto'>
         <Navbar className="absolute z-10"/>
-        <Outlet className="absolute z-[-1]"/>
+        <Outlet className="absolute z-1"/>
         {!panel && <div className={"rounded-tr-lg rounded-tl-lg bg-blue-400 text-white right-[-48px] fixed top-[45%] flex gap-2 py-2 px-4 items-center -rotate-90 cursor-pointer hover:shadow-lg duration-200"} onClick={() => { setPanel(true) }}>
           <RxCalendar />
           <h3>Book Now!</h3>
