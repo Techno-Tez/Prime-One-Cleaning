@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="waves" preserveAspectRatio="none" shape-rendering="auto" viewBox="0 24 150 28" xmlns:xlink="https://www.w3.org/1999/xlink">
+<defs>
+<path d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" id="gentle-wave"/>
+</defs>
+<g class="dancing">
+<use class="node1" x="48" xmlns:ns1="http://www.w3.org/1999/xlink" ns1:href="#gentle-wave" y="0"/>
+<use class="node1" x="48" xmlns:ns2="http://www.w3.org/1999/xlink" ns2:href="#gentle-wave" y="3"/>
+<use class="node1" x="48" xmlns:ns3="http://www.w3.org/1999/xlink" ns3:href="#gentle-wave" y="5"/>
+<use class="node1" x="48" xmlns:ns4="http://www.w3.org/1999/xlink" ns4:href="#gentle-wave" y="7"/>
+</g>
+</svg>
