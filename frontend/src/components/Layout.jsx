@@ -20,7 +20,7 @@ const Layout = () => {
         <Panel panel={panel} setPanel={setPanel} className="relative z-[100]"/>
 
         <div className='rounded-full fixed bottom-5 left-5 bg-green-600 p-3 text-white shadow-md cursor-pointer'>
-          <a href="https://wa.me/917405413423" className="hover:text-white"><BsWhatsapp size={30} /></a>
+          <a href="https://wa.me/61490817351" className="hover:text-white"><BsWhatsapp size={30} /></a>
         </div>
 
       </div>
